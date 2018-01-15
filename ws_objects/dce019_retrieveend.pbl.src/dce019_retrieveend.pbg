@@ -12,4 +12,5 @@
  "w_dce019w01_retrieveend.srw" "dce019_retrieveend.pbl";
  "w_mdi.srw" "dce019_retrieveend.pbl";
  "w_test1.srw" "dce019_retrieveend.pbl";
+ "w_test2.srw" "dce019_retrieveend.pbl";
 @end;
