@@ -1,0 +1,14 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "dce019_retrieveend.pbl" "";
+@end;
+@begin Objects 
+ "dce019_retrieveend.sra" "dce019_retrieveend.pbl";
+ "d_dce019w01p001_column.srd" "dce019_retrieveend.pbl";
+ "d_dce019w01p002_column.srd" "dce019_retrieveend.pbl";
+ "d_dce019w01p003_column.srd" "dce019_retrieveend.pbl";
+ "m_main.srm" "dce019_retrieveend.pbl";
+ "n_cst_config.sru" "dce019_retrieveend.pbl";
+ "w_dce019w01_retrieveend.srw" "dce019_retrieveend.pbl";
+ "w_mdi.srw" "dce019_retrieveend.pbl";
+@end;

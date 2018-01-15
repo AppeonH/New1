@@ -1,0 +1,12 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "dce018_resize.pbl" "";
+@end;
+@begin Objects 
+ "dce018_resize.sra" "dce018_resize.pbl";
+ "d_dce018w01_column.srd" "dce018_resize.pbl";
+ "m_main.srm" "dce018_resize.pbl";
+ "n_cst_config.sru" "dce018_resize.pbl";
+ "w_dce018w01_resize.srw" "dce018_resize.pbl";
+ "w_mdi.srw" "dce018_resize.pbl";
+@end;
