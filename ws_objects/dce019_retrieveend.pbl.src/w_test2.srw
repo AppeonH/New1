@@ -17,6 +17,9 @@ string icon = "AppIcon!"
 end type
 global w_test2 w_test2
 
+type variables
+n_cst_config		lnc_connection
+end variables
 on w_test2.create
 end on
 
