@@ -7,16 +7,18 @@ end type
 end forward
 
 global type w_test2 from window
-integer width = 3351
-integer height = 1384
+integer width = 3378
+integer height = 1408
 boolean titlebar = true
 string title = "Untitled"
 boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
+boolean resizable = true
 windowstate windowstate = maximized!
 long backcolor = 67108864
 string icon = "AppIcon!"
+boolean center = true
 cb_1 cb_1
 end type
 global w_test2 w_test2
@@ -35,8 +37,8 @@ destroy(this.cb_1)
 end on
 
 type cb_1 from commandbutton within w_test2
-integer x = 311
-integer y = 268
+integer x = 187
+integer y = 668
 integer width = 457
 integer height = 128
 integer taborder = 10
