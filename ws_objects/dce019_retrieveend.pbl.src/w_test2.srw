@@ -16,6 +16,7 @@ boolean resizable = true
 windowstate windowstate = maximized!
 long backcolor = 67108864
 string icon = "AppIcon!"
+boolean center = true
 end type
 global w_test2 w_test2
 
