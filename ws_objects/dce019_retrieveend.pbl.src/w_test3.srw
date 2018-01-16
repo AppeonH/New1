@@ -15,6 +15,7 @@ boolean maxbox = true
 boolean resizable = true
 long backcolor = 67108864
 string icon = "AppIcon!"
+boolean center = true
 end type
 global w_test3 w_test3
 
