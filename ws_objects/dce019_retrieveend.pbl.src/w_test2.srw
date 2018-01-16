@@ -15,12 +15,17 @@ boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
+windowstate windowstate = maximized!
 long backcolor = 67108864
 string icon = "AppIcon!"
 boolean center = true
 cb_1 cb_1
 end type
 global w_test2 w_test2
+
+type variables
+n_cst_config		lnc_connection
+end variables
 
 on w_test2.create
 this.cb_1=create cb_1
