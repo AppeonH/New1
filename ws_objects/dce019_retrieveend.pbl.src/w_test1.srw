@@ -24,3 +24,7 @@ end on
 on w_test1.destroy
 end on
 
+event open;int		li_int
+string	ls_string
+end event
+
